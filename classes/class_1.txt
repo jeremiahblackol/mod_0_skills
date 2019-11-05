@@ -1,0 +1,12 @@
+class = glassware
+attributes:
+  isGlassClean (boolean)
+  totalCapacity (integer)
+  currentCapacity (integer)
+  glassStyle (string)
+
+methods:
+  calculatePercentFull (divides currentCapacity by totalCapacity)
+  washGlass (makes isGlassClean true)
+  refillGlass (adds to currentCapacity until it reaches totalCapacity)
+  makeItDouble (changes glassStyle and adds to totalCapacity)
