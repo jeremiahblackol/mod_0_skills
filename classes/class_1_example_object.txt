@@ -1,12 +1,13 @@
 instance = pint
 attributes:
-isGlassClean (false)
-totalCapacity (16)
-currentCapacity (7)
-glassPurpose (socialDrinking)
-
+  isGlassClean (false)
+  totalCapacity (16)
+  currentCapacity (7)
+  glassPurpose (socialDrinking)
+  gettingPeopleDrunk (overConsumption)
+  
 methods:
-calculatePercentFull (7 / 16 = .43 )
-washGlass (makes isGlassClean true)
-refillGlass (adds .57 to reach totalCapacity)
-makeItDouble (changes glassPurpose to gettingPeopleDrunk)
+  calculatePercentFull (7 / 16 = .43 )
+  washGlass (makes isGlassClean true)
+  refillGlass (adds .57 to reach totalCapacity)
+  makeItDouble (changes glassPurpose to gettingPeopleDrunk)
