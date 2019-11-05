@@ -1,0 +1,13 @@
+class = food
+attributes:
+  ingredients (array)
+  wasItFried (boolean)
+  doesItTasteGood (boolean)
+  servingSize (integer)
+  healthyPortion (integer)
+
+methods:
+  sendItBack (changes doesItTasteGood boolean)
+  satiety (subtracts healthyPortion from servingSize adds half of difference back to healthy portion)
+  fryIt (changes wasItFried and changes doesItTasteGood adds oil to ingredients)
+  glutenFree (changes ingredients)
