@@ -1,0 +1,30 @@
+how to become a Turing student.
+1 get tired of current career
+  1.1 work a lot of hours
+  1.2 be poorly compensated
+  1.3 deal with shitty people
+    1.3.1 smile and nod with customers
+    1.3.2 pretend you like co-workers
+  1.4 never use that college degree
+
+2 make a decision to change careers
+  2.1 go to job fairs
+  2.2 work temporary jobs
+    2.2.1 work a lot of hours
+    2.2.2 be poorly compensated
+    2.2.3 deal with shitty people
+      2.2.3.1 smile and nod with customers
+      2.2.3.2 pretend you like co-workers
+    2.2.4 never use that college degree
+  2.3 research trade schools online
+    2.3.1 decide your hands are too delicate to be a mason
+    2.3.2 like the look of coding bootcamps
+      2.3.2.1 research the salaries of software developers
+      2.3.2.2 find the bootcamp that will best fit your personality
+        2.3.2.2.1 like Turing the most
+
+3 apply at Turing
+  3.1 love the online logic exam
+  3.2 struggle a bit in the interview
+    3.2.1 accidentally wear a klansman burning alive t-shirt
+  3.3 be accepted into Turing
