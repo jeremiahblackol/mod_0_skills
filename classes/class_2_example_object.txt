@@ -1,13 +1,13 @@
-instance = hamburger
+instance = Hamburger
 attributes:
-  ingredients (beef patty, beef patty, special sauce, lettuce, cheese, pickles, onions, sesame seed bun)
-  wasItFried (true)
-  doesItTasteGood (false)
+  ingredients ["beef patty", "beef patty", "special sauce", "lettuce", "cheese", "pickles", "onions", "sesame seed bun"]
+  wasItFried (TRUE)
+  doesItTasteGood (FALSE)
   servingSize (563)
   healthyPortion (400)
 
 methods:
   sendItBack (changes doesItTasteGood )
   satiety (563 - 400 = 163, 163 / 2 = 81.5, 400 + 81.5 = 481.5)
-  fryIt (makes wasItFried true adds oil to ingredients)
+  fryIt (makes wasItFried TRUE adds oil to ingredients)
   glutenFree (subtracts sesame seed bun from ingredients)

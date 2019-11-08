@@ -1,11 +1,11 @@
-instance = pint
+instance = Pint
 attributes:
-  isGlassClean (false)
+  isGlassClean (FALSE)
   totalCapacity (16)
   currentCapacity (7)
-  glassPurpose (socialDrinking)
-  gettingPeopleDrunk (overConsumption)
-  
+  glassPurpose ("socialDrinking")
+  gettingPeopleDrunk ("overConsumption")
+
 methods:
   calculatePercentFull (7 / 16 = .43 )
   washGlass (makes isGlassClean true)

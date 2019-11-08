@@ -1,4 +1,4 @@
-class = food
+class = Food
 attributes:
   ingredients (array)
   wasItFried (boolean)
